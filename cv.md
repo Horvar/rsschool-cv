@@ -9,7 +9,7 @@
 
 ## About
 Greetings! My name is Semyon. I have been working in the web-development for over 4 years.
-Nowadays, I work as a frontend freelancer for DEKART GROUP company (https://dkrt.group).
+Nowadays, I work as a frontend freelancer for DEKART GROUP company ([https://dkrt.group](https://dkrt.group)).
   
 I really love to create web-sites with good visuals and handy user experience.
   
@@ -28,27 +28,27 @@ Hope to find a job where I can grow up and learn some new from skilled mates.
 
 ## Code examples
 Here is my last project on GitHub:  
-https://github.com/Horvar/treeple  
+[https://github.com/Horvar/treeple](https://github.com/Horvar/treeple)  
 
 ## Experience
 **2022 - 2023**  
 **[DEKART GROUP](https://dkrt.group)**  
 I continue working as Frontend-developer. 
 Here are some local projects:  
-https://gkrmg.ru  
-https://treeple.kz
+- [gkrmg.ru](https://gkrmg.ru)  
+- [treeple.kz](https://treeple.kz)
 
 **2020 - 2022**  
 **[Swipe&like](https://swipeandlike.me)**  
 My development skills have grown. I became confident Frontend-developer.  
 Here are some nice projects made with my frontend:  
-https://samgik.ru  
-https://lasmera.com  
-https://sfsi.ru  
-https://inoxdoors.ru  
-https://inoxal.ru  
-https://kakest.me  
-https://erqule.ru  
+- [samgik.ru](https://samgik.ru)  
+- [lasmera.com](https://lasmera.com)  
+- [sfsi.ru](https://sfsi.ru)  
+- [inoxdoors.ru](https://inoxdoors.ru)  
+- [inoxal.ru](https://inoxal.ru)  
+- [kakest.me](https://kakest.me)  
+- [erqule.ru](https://erqule.ru)  
 
 **2019 - 2020**  
 **[Capybara Digital](https://capyba.ru)**  
