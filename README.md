@@ -1,1 +1,1 @@
-# rsschool-cv
+https://horvar.github.io/rsschool-cv/
